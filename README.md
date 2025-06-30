@@ -12,7 +12,7 @@ This project contains an automation test script written in *python* using *selen
 1. Launches the browser and opens the Saucedemo login page
 2. Enters username and password
 3. Clicks the Login button
-4. Validates a successful loin
+4. Validates a successful login
 
 # Set up Environment
 Install dependencies
